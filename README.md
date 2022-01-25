@@ -4,9 +4,8 @@
 
 Skills: / REACT / JS / HTML / CSS / Java / MySQL / Springboot / Bootstrap
 
-- 🔭 I’m currently working on a chat application , that allows you to privately chat with team members with your own login and community check it out!-https://chat-app-v2.com/
-- -  working on breaking bad app that displays info on the show and facts such as 'nicknames'https://github.com/elijahguy/Breaking-Bad-App- 
--  🌱 I’m currently learning Java,Python   
+- 🔭 I’m currently working on a chat application , that allows you to privately chat with team members with your own login and community check it out!-https://chat-app-v2.com/ 
+-  🌱 I’m currently learning React, Javascript   
 - 👯 I’m looking to collaborate on anywhere im needed  
 - 💬 Ask me about Anything related to sneakers/React
 - 📫 How to reach me: https://www.linkedin.com/in/elijah-guy/ 
